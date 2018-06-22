@@ -1,0 +1,35 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+
+body{ background: #0076a3}
+
+
+#center{
+	margin:100px auto;
+	width:300px;		
+	height:300px;
+}
+
+
+
+	
+.formie{ background-image:url(../images/post_top.png); height:200px; border-radius: 5px; padding:10px;	 margin-top:5px; }
+.formie label{font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#FF0000;  display:block; text-shadow: 0 1px 4px #fff; margin-top:5px;}
+.formie input{padding:5px; margin-top:5px; margin-bottom:5px; 	background : #ffffff;
+	border : 1px solid #ddd;
+	outline : none;}
+.formie input:focus {
+background-color : #fffeef;
+}
+.formie select:focus {
+background-color : #fffeef;
+}
+.formie select{padding:5px; margin-top:5px; margin-bottom:5px; 	border : 1px solid #ddd;
+	outline : none;}
+
+#center p{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:30px; font-weight:bold; text-shadow: 0 1px 10px #000;  color:#FFFFFF}
+
+#suckses{margin:300px auto; width:400px; text-align:center; color:#FFFFFF; font-size:24px; }
+#suckses a{text-decoration:none; color:#0033FF;}
